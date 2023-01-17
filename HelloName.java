@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class HelloWorld {
+public class HelloName {
 
     /**
      * @param args the command line arguments
